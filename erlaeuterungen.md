@@ -24,5 +24,8 @@ Python-Script, automatischer Versand des Textes über die Twitter-API.
 * essenvergesser.py - Pythonscript für den automatischen Versand eines Tweets
 * beispiel.plist - XML-Datei (Beispiel) für launchd (Speicherort: /Library/LaunchDaemons/)
 
+##Dokumentation der angesprochenen APIs und Libraries:
+* [Twitter-API](https://dev.twitter.com)
+* [Python-Library für Twitter](https://pypi.python.org/pypi/twitter/1.15.0)
 
 
