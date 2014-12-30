@@ -21,8 +21,8 @@ Python-Script, automatischer Versand des Textes über die Twitter-API.
 * Einrichten eines cronJobs (Beispiel für Mac OS X: xml-plist für launchd) auf einem Server
 
 ##Dateien:
-essenvergesser.py - Pythonscript für den automatischen Versand eines Tweets
-beispiel.plist - XML-Datei (Beispiel) für launchd (Speicherort: /Library/LaunchDaemons/)
+* essenvergesser.py - Pythonscript für den automatischen Versand eines Tweets
+* beispiel.plist - XML-Datei (Beispiel) für launchd (Speicherort: /Library/LaunchDaemons/)
 
 
 
