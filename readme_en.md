@@ -5,10 +5,9 @@ Mac OS X, Python 3.4
 
 ##TASK: 
 Reminder to some people, which daily forget to go to lunch
-Täglich gegen 12:00 Uhr soll automatisch ein Tweet abgesendet werden, der mit unterschiedlichen Texten an das Mittagessen erinnert.
 
 ##REALISATION:
-Python-script sends daily at 12:00 o'clock a short-message (tweet) with different text via Twitter-API.
+Python-script sends daily at 12:00 a short-message (tweet) with different text via Twitter-API.
 
 ##REQUIREMENTS:
 * a functional twitter-account
